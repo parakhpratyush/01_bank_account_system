@@ -1,6 +1,6 @@
 # 🏦 Simple CLI Bank Account System
 
-A lightweight, interactive Command Line Interface (CLI) Code written in Python that simulates basic banking operations like checking balances, depositing funds, and withdrawing money with password verification.
+**A lightweight, interactive Command Line Interface (CLI) Code written in Python that simulates basic banking operations like checking balances, depositing funds, and withdrawing money with password verification.**
 
 ---
 
